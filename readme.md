@@ -2,10 +2,15 @@
 ```
 git remote add origin https://github.com/abhaysobti/test.git
 
-git add .
+*git add .
 
-git commit -m "Initial Commit by Me"
+#git commit -m "Initial Commit by Me"
 
-git push -u origin main   -- Required authentication
+#git push -u origin main   -- Required authentication
 ```
+Common GIT Commands
+git clone
+git add
+git commit
+git push
 
